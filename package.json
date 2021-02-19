@@ -1,0 +1,33 @@
+{
+  "name": "exercism",
+  "version": "0.1.0",
+  "description": "My exercism solutions",
+  "scripts": {
+    "submit": "exercism submit --"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morteza-jamali/exercism.git"
+  },
+  "keywords": [
+    "morteza-jamali",
+    "exercism",
+    "solutions",
+    "javascript",
+    "typescript",
+    "cpp",
+    "python",
+    "c",
+    "csharp"
+  ],
+  "author": {
+    "name": "Morteza Jamali",
+    "email": "mortezajamali4241@gmail.com",
+    "url": "https://morteza-jamali.github.io"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morteza-jamali/exercism/issues"
+  },
+  "homepage": "https://github.com/morteza-jamali/exercism#readme"
+}
