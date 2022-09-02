@@ -1,8 +1,8 @@
 // Include the test framework.
-#include "vendor/unity.h"
+#include "test-framework/unity.h"
 
 // Include the header file with the declarations of the functions you create.
-#include "../src/hello_world.h"
+#include "hello_world.h"
 
 // Runs before every test.
 void setUp(void)
@@ -27,7 +27,7 @@ static void test_say_hi(void)
 // Runs the test(s)
 int main(void)
 {
-   UnityBegin("test/test_hello_world.c");
+   UnityBegin("test_hello_world.c");
 
    RUN_TEST(test_say_hi);
 
