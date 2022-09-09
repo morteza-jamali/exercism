@@ -1,6 +1,6 @@
 # Hello World
 
-Welcome to Hello World on Exercism's C Track.
+Welcome to Hello World on Exercism's Ruby Track.
 If you need help running the tests or submitting your code, check out `HELP.md`.
 
 ## Instructions
@@ -23,21 +23,28 @@ If everything goes well, you will be ready to fetch your first real exercise.
 
 ### Created by
 
-- @JacobMikkelsen
+- @ramonh
 
 ### Contributed to by
 
-- @bcc32
-- @benkelaar
-- @gea-migration
-- @h-3-0
+- @abartov
+- @bgrabow
+- @budmc29
+- @gilmatic
+- @hilary
+- @iHiD
+- @Insti
+- @jpotts244
+- @Kosmas
+- @kotp
 - @kytrinyx
-- @patricksjackson
-- @QLaille
-- @RealBarrettBrown
-- @ryanplusplus
-- @siebenschlaefer
-- @wolf99
+- @mike-hewitson
+- @NeimadTL
+- @sivabudh
+- @skeskali
+- @thejoycekung
+- @trayo
+- @tryantwit
 
 ### Based on
 
